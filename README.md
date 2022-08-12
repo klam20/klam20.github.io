@@ -3,11 +3,11 @@
 Circuits Team Lab Midterm 1: Bandpass Filter  
 ![image of bandpass filter](/assets/images/BPF1.PNG)
 
-Circuits Team Lab Midterm 3: Mock Motion-Light Sensor Schematic
-![image of quad nand ic schematic](/assets/images/schematics.PNG) 
-
 Circuits Team Lab Midterm 3: Mock Motion-Light Sensor Build
 ![image of quad nand ic board](/assets/images/quadnandic.jpg)  
+
+Circuits Team Lab Final: Mock Temperature Transducer Schematic
+![image of op amp schematic](/assets/images/opamp.png) 
 
 EGR 10 Final Project: Scramble  
 ![scramble_details](/assets/images/projectscramble.PNG)  
