@@ -12,6 +12,4 @@ Circuits Team Lab Final: Mock Temperature Transducer Schematic
 EGR 10 Final Project: Scramble  
 ![scramble_details](/assets/images/projectscramble.PNG)  
   
-MATLAB Final on determining best/worst California counties  
-[![MATLABFINAL](https://img.youtube.com/vi/nvbHfmzMe04/0.jpg)](https://www.youtube.com/watch?v=nvbHfmzMe04)  
   
