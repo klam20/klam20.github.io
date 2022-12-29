@@ -4,9 +4,8 @@ SJSU Robotics Electrical Schematic/PCB Layout Contributor
 ![pcb1](/assets/images/pcb1.png)
 ![pcb2](/assets/images/pcb2.png)
 
-Self Project FSM: Traffic Controller  
-![traffic_controller](/assets/images/verilogCode.PNG)
-![gtk_wave](/assets/images/gtkwave.PNG)
+Self Project: 7-Segment Counter FGPA-Basys3 
+[![upCounterFPGA](https://img.youtube.com/vi/BlkWwIB65J8/0.jpg)](https://www.youtube.com/watch?v=BlkWwIB65J8)
 
 MIPS Assembly: String to Int Conversion
 ![asssemblyCode](/assets/images/assemblyCode.PNG)
