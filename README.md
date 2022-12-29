@@ -4,7 +4,7 @@ SJSU Robotics Electrical Schematic/PCB Layout Contributor
 ![pcb1](/assets/images/pcb1.png)
 ![pcb2](/assets/images/pcb2.png)
 
-Self Project: 7-Segment Counter FGPA-Basys3 
+Self Project: 7-Segment Counter FGPA-Basys3 <br/>
 [![upCounterFPGA](https://img.youtube.com/vi/BlkWwIB65J8/0.jpg)](https://www.youtube.com/watch?v=BlkWwIB65J8)
 
 MIPS Assembly: String to Int Conversion
