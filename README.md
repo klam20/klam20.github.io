@@ -1,7 +1,7 @@
 ## My Portfolio
 
 SJSU Robotics Electrical Schematic/PCB Layout Contributor 
-<img src="/assets/images/pcb1.png" alt="pcb1" title="pcb1" width="150"/>
+<img src="/assets/images/pcb1.png" alt="pcb1" title="pcb1" width="60%"/>
 ![pcb1](/assets/images/pcb1.png){ width=60%,height:30px }
 ![pcb2](/assets/images/pcb2.png){ width=60%,height:30px }
 
