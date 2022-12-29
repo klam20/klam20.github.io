@@ -1,9 +1,8 @@
 ## My Portfolio
 
 SJSU Robotics Electrical Schematic/PCB Layout Contributor 
-<img src="/assets/images/pcb1.png" alt="pcb1" title="pcb1" width="60%"/>
-![pcb1](/assets/images/pcb1.png){ width=60%,height:30px }
-![pcb2](/assets/images/pcb2.png){ width=60%,height:30px }
+<img src="/assets/images/pcb1.png" alt="pcb1" title="pcb1" width="75%"/>
+<img src="/assets/images/pcb2.png" alt="pcb2" title="pcb2" width="75%"/>
 
 Self Project: 7-Segment Counter FGPA-Basys3 <br/>
 [![upCounterFPGA](https://img.youtube.com/vi/BlkWwIB65J8/0.jpg)](https://www.youtube.com/watch?v=BlkWwIB65J8)
