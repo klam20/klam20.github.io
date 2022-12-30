@@ -9,7 +9,7 @@ Self Project: 7-Segment Counter FGPA-Basys3 <br/>
 
 State Machine: Traffic Controller
 ![fsm1](/assets/images/verilogCode.PNG)
-![fsm2](/assets/images/gtkWave.PNG)
+![fsm2](/assets/images/gtkwave.PNG)
 
 Circuits Team Lab Final: Mock Temperature Transducer Schematic
 ![image of op amp schematic](/assets/images/opamp.png) 
