@@ -11,7 +11,7 @@ State Machine: Traffic Controller
 ![fsm1](/assets/images/verilogCode.PNG)
 ![fsm2](/assets/images/gtkwave.PNG)
 
-MIPS Assembly
+MIPS Assembly Snippet
 ![mips](/assets/images/assemblyCode.PNG) 
 
 Circuits Team Lab Final: Mock Temperature Transducer Schematic
