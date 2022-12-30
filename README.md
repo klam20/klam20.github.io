@@ -7,8 +7,9 @@ SJSU Robotics Electrical Schematic/PCB Layout Contributor
 Self Project: 7-Segment Counter FGPA-Basys3 <br/>
 [![upCounterFPGA](https://img.youtube.com/vi/BlkWwIB65J8/0.jpg)](https://www.youtube.com/watch?v=BlkWwIB65J8)
 
-MIPS Assembly: String to Int Conversion
-![asssemblyCode](/assets/images/assemblyCode.PNG)
+State Machine: Traffic Controller
+![fsm1](/assets/images/verilogCode.PNG)
+![fsm2](/assets/images/gtkWave.PNG)
 
 Circuits Team Lab Final: Mock Temperature Transducer Schematic
 ![image of op amp schematic](/assets/images/opamp.png) 
